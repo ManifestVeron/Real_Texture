@@ -1,0 +1,48 @@
+[33mcommit a2e05215c52d6e2a26a7791e1fbc775a7f768315[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: a36ecd6 c14add4
+Author: Danila <vorontsov_da@gosniias.ru>
+Date:   Tue Jan 31 17:15:30 2023 +0300
+
+    added some fixes
+
+[33mcommit a36ecd6cecc66449a5fd74b199f72a65f3e3f08d[m
+Author: Danila <vorontsov_da@gosniias.ru>
+Date:   Tue Jan 31 17:03:05 2023 +0300
+
+    added some fixes
+
+[33mcommit c14add4b7fba1aafc42a6d50939cc2b63e9e2553[m
+Author: Samodurov <samodurov.maxim@yandex.ru>
+Date:   Fri Nov 18 18:06:43 2022 +0300
+
+    fixed for ue5
+
+[33mcommit f3e6f0dbdaa812f20c68dd771aeee7254fd31991[m
+Author: Danila <vorontsov_da@gosniias.ru>
+Date:   Fri Nov 18 14:04:34 2022 +0300
+
+    optimized adding of traceshift
+
+[33mcommit 48f1e9bf35953066b2f6f64f226b7a9d63bcb8fa[m
+Author: Danila <vorontsov_da@gosniias.ru>
+Date:   Fri Nov 18 11:43:27 2022 +0300
+
+    fixed png in readme
+
+[33mcommit 27bbabac5172cbe143b7e2c8870e237f93de18bc[m
+Author: Danila <vorontsov_da@gosniias.ru>
+Date:   Fri Nov 18 11:37:00 2022 +0300
+
+    Add README.md
+
+[33mcommit cb1fcda234c39c6d196f39318afd60285ea09e30[m
+Author: Danila <vorontsov_da@gosniias.ru>
+Date:   Fri Nov 18 10:11:20 2022 +0300
+
+    fixed problem with float number of positions
+
+[33mcommit 8ad17a7951e83112cec732639c71381853cb6798[m
+Author: Danila <vorontsov_da@gosniias.ru>
+Date:   Thu Nov 17 15:53:09 2022 +0300
+
+    init
